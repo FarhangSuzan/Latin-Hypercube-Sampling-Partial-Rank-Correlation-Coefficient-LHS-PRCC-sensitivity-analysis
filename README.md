@@ -1,2 +1,3 @@
-# Latin-Hypercube-Sampling-Partial-Rank-Correlation-Coefficient-LHS-PRCC-sensitivity-analysis
+# Latin Hypercube Sampling (LHS)/Partial Rank Correlation Coefficient(PRCC) 
 Global Sensitivity Analysis
+To conduct the PRCC analysis, execute the following MATLAB scripts in order: 1-"Model_LHS.m", 2-"run_prcc.m", and 3-"plot_prcc.m". Update your model and parameters within "ODE_LHS.m" and "Parameter_settings_LHS.m" respectively. These scripts generate the sensitivity analysis results depicted in Figure 3 of the publication "Analysis of Host Immunological Response of Adenovirus-Based COVID-19 Vaccines" by Suzan Farhang-Sardroodi et al. (2021). Please cite "https://doi.org/10.3390/vaccines9080861" if utilizing these scripts.
