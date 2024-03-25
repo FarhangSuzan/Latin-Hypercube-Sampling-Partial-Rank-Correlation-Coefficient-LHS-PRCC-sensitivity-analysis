@@ -20,6 +20,6 @@ For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.s
 
 Please cite 
 
-[Farhang-Sardroodi, Suzan, Chapin S. Korosec, Samaneh Gholami, Morgan Craig, Iain R. Moyles, Mohammad Sajjad Ghaemi, Hsu Kiang Ooi, and Jane M. Heffernan. "Analysis of host immunological response of adenovirus-based COVID-19 vaccines." Vaccines 9, no. 8 (2021): 861.] (https://doi.org/10.3390/vaccines9080861). 
+[Farhang-Sardroodi, Suzan, Chapin S. Korosec, Samaneh Gholami, Morgan Craig, Iain R. Moyles, Mohammad Sajjad Ghaemi, Hsu Kiang Ooi, and Jane M. Heffernan. "Analysis of host immunological response of adenovirus-based COVID-19 vaccines." Vaccines 9, no. 8 (2021): 861.](https://doi.org/10.3390/vaccines9080861). 
 
-or this page: [https://github.com/FarhangSuzan] (https://github.com/FarhangSuzan).
+or this page: [https://github.com/FarhangSuzan](https://github.com/FarhangSuzan).
